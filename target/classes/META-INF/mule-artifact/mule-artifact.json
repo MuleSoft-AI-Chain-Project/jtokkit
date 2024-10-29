@@ -3,10 +3,10 @@
     "id": "java",
     "attributes": {
       "type": "com.mule.mulechain.internal.JtokkitExtension",
-      "version": "0.0.5-SNAPSHOT"
+      "version": "0.0.8-SNAPSHOT"
     }
   },
-  "name": "Jtokkit",
+  "name": "JTokkit",
   "requiredProduct": "MULE",
   "classLoaderModelLoaderDescriptor": {
     "id": "mule",
